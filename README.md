@@ -45,4 +45,12 @@ Sidebar button property:
 ![youtube-clone4](https://github.com/user-attachments/assets/1c5804b0-165e-430d-a223-80712c89f51b)
 
 
+# Video:
+
+
+
+https://github.com/user-attachments/assets/413cf1d8-bd7e-4135-8950-84145d7e753f
+
+
+
 
