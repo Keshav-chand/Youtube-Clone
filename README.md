@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#  YouTube Clone
+A simple clone of YouTube, designed to replicate the basic functionality and layout of the popular video-sharing platform. This project uses React and CSS to build a responsive and interactive interface.
 
-## Getting Started
+# Features
+- Video Thumbnails: Display a grid of video thumbnails.
 
-First, run the development server:
+- Sidebar: A collapsible sidebar for navigation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Responsive Design: Adjusts layout based on the sidebar width.
+ 
+- Sidebar Navigation: A collapsible sidebar that allows users to select different categories and channels to view content.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Hover Effects: Interactive hover effects on thumbnails to provide visual feedback.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Responsive Grid Layout: Maintains a consistent 3-thumbnail-per-row layout with adaptive sizing when the sidebar is toggled.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Technologies
 
-## Learn More
+- React: A JavaScript library for building user interfaces.
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js: A React framework for server-side rendering and static site generation.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- CSS: For styling and layout.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- MUI: Provides Material-UI components, including buttons for a    modern UI design.
 
-## Deploy on Vercel
+- React Icons: Offers a collection of customizable icons for easy integration.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Moment.js: Used for formatting and displaying time on video thumbnails.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- AbbreviateNumber: A utility for formatting large numbers into a more readable form.
+
+# Screenshots:
+
+
+Home page:
+![youtube-clone1](https://github.com/user-attachments/assets/5962e429-4968-4fab-aeef-3bff0e7131db)
+
+Trending page:
+![youtube-clone2](https://github.com/user-attachments/assets/4614361a-d088-4e5b-bc72-667a0e6b6098)
+
+Gaming  page:
+![youtube-clone13](https://github.com/user-attachments/assets/59004643-d63b-46e3-bdfc-f1bfa40f2d89)
+
+Sidebar button property:
+![youtube-clone4](https://github.com/user-attachments/assets/1c5804b0-165e-430d-a223-80712c89f51b)
+
+
+
