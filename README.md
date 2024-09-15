@@ -1,7 +1,6 @@
-#  YouTube Clone
-A simple clone of YouTube, designed to replicate the basic functionality and layout of the popular video-sharing platform. This project uses React and CSS to build a responsive and interactive interface.
-
-# Features
+#  YouTube Clone:
+This project is a front-end replica of YouTube, designed to look and work like the real site. It uses React for building the user interface and Next.js for better performance. Node.js runs the project. CSS handles the design, MUI provides stylish buttons, and React Icons adds icons. Moment.js shows time on video thumbnails, and AbbreviateNumber makes large numbers easier to read.
+# Features:
 - Video Thumbnails: Display a grid of video thumbnails.
 
 - Sidebar: A collapsible sidebar for navigation.
@@ -14,7 +13,7 @@ A simple clone of YouTube, designed to replicate the basic functionality and lay
 
 - Responsive Grid Layout: Maintains a consistent 3-thumbnail-per-row layout with adaptive sizing when the sidebar is toggled.
 
-# Technologies
+# Technologies:
 
 - React: A JavaScript library for building user interfaces.
 
