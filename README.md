@@ -1,5 +1,5 @@
 #  YouTube Clone:
-This project is a front-end replica of YouTube, designed to look and work like the real site. It uses React for building the user interface and Next.js for better performance. Node.js runs the project. CSS handles the design, MUI provides stylish buttons, and React Icons adds icons. Moment.js shows time on video thumbnails, and AbbreviateNumber makes large numbers easier to read.
+This project is a front-end clone  of YouTube, designed to look and work like the real site. It uses React and Next.js for better performance. Node.js runs the project. CSS handles the design, MUI provides stylish buttons, and React Icons adds icons. Moment.js shows time on video thumbnails, and AbbreviateNumber makes large numbers easier to read.
 # Features:
 - Video Thumbnails: Display a grid of video thumbnails.
 
