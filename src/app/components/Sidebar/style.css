@@ -1,0 +1,23 @@
+.sidebar{height:calc(100vh - 70px); position: fixed;top:70px;width:15%;max-height: 100vh; overflow-y:scroll; padding-bottom: 50px;}
+.sidebar Button{width:100% !important;text-align:left; justify-content: start; color:#fff; padding:18px 8px !important; border-radius: 7px !important; text-transform: capitalize !important;}
+
+.sidebar Button:hover{background: rgba(255,255,255,0.1) !important;}
+
+.sidebar Button:focus {background: rgba(255, 255, 255, 0.2) !important;}
+
+.sidebar Button:active {background: rgba(255, 255, 255, 0.2) !important;} 
+
+.sidebar button .icon{display:flex;width:30px !important;}
+
+.sidebar button .icon svg{font-size: 20px !important;}
+
+.sidebarWrapper.expend{text-align: center !important; justify-content:center !important ;}
+.sidebarWrapper.expend button .icon{align-items: center; justify-content: center;}
+
+.videoThumnail .imgWrapper .duration{position:absolute;bottom:20px; right:20px;z-index:100; background: rgba(0,0,0,0.9); border-radius: 10px; display: flex; align-items:center;justify-content: center;justify-content: center;padding: 7px; font-size:12px !important;} 
+
+
+
+
+
+

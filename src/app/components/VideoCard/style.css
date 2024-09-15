@@ -1,0 +1,22 @@
+.videoListingPage{flex-wrap: wrap; gap: 20px;}
+.videoListingPage .videoThumbnail{width:32%;height:auto;}
+.videoListingPage .videoThumbnail .imgWrapper{width:100%;height:autp;overflow: hidden; border-radius: 10px; margin-bottom: 10px;}
+.videoListingPage .videoThumbnail .imgWrapper{width: 100%;height:auto; transition: all 0.3s ease-in-out;}
+.videoListingPage .videoThumbnail:hover .imgWrapper img{transform: scale(1.1);}
+
+.videoListingPage .videoThumbnail .info .rounded-circle{width:35px;height:35px;overflow: hidden;display: flex; align-items: center; justify-content: center;}
+.videoListingPage .videoThumbnail .info .rounded-circle img{width: 100% !important; height: 100% !important;object-fit: cover !important;}
+
+.videoListingPage .videoThumbnail .info h5{ font-size: 14px; margin-bottom: 0px;font-weight: 600; opacity: 0.8;}
+
+.channelName{color:#fff; opacity:0.7; font-size: 14px;}
+
+.videoThumbnail .imgWrapper .duration{position:absolute; bottom: 10px;
+right:10px;z-index:100; background: rgba(0,0,0,0.9);
+border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 5px; font-size: 12px !important;}
+
+.videoListingPage .videoThumnail .info .channelNam svg{font-size:12px !important;color:#fff !important;opacity: 0.7;}
+
+
+
+

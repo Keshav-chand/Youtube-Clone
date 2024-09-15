@@ -1,0 +1,18 @@
+
+header{width:100%; height:70px; margin:auto; padding:10px 0px; position:fixed;top:0px; left:0px;z-index:10; background: #000;}
+header .button{width:50px !important; height:50px !important; color:#fff;}
+header .button svg{font-size: 25px !important;}
+header .logo img{width:100px; height:auto ;}
+
+header .search{width:100%;}
+header .search .input{background: none !important; outline: none !important; border:1px solid rgba(225,255,255,0.1); border-radius: 30px; border-right:transparent in !important; color:#fff; flex-basis:90%;height:40px;padding-left: 20ox;padding-right: 20px; border-top-right-radius: 0px;
+border-bottom-right-radius: 0px;}
+
+header .search button{width:60px; height: 40px; background: #222222; border:1px solid rgba(225,255,255,0.1); border-radius: 30px; border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px; color:#fff;}
+
+header .search button svg{color:#fff; font-size:20px;}    
+
+header .part3 .rounded-circle{width:40px;height:40px;}
+header .part3 .rounded-circle img{width:100% !important; height:100%;object-fit:cover;}
+    
